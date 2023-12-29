@@ -10,4 +10,4 @@ This folder contain the visualization of our dataset (charts, graphs, ...)
 ## Models
 This folder contain our Models.
 
-note: If you keep the models pickle files, The code will detect it and skip the training so if you want to train or modify something, be sure to delete this models.
+note: If you keep the models pickle files, The code will detect it and skip the training to save time so if you want to see the training or modify something, be sure to delete this models.
